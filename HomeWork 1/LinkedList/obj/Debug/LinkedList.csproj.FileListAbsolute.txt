@@ -1,0 +1,6 @@
+f:\Курсы C#\ДЗ\less 1\LinkedList\bin\Debug\LinkedList.exe.config
+f:\Курсы C#\ДЗ\less 1\LinkedList\bin\Debug\LinkedList.exe
+f:\Курсы C#\ДЗ\less 1\LinkedList\bin\Debug\LinkedList.pdb
+f:\Курсы C#\ДЗ\less 1\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+f:\Курсы C#\ДЗ\less 1\LinkedList\obj\Debug\LinkedList.exe
+f:\Курсы C#\ДЗ\less 1\LinkedList\obj\Debug\LinkedList.pdb
